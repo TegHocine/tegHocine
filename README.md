@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about react and web3
-- ⚡ Fun fact: I love to cook and listen to music
 
 ### Languages and Tools:
 
