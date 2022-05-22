@@ -5,10 +5,10 @@
 - 🥅 2022 Goals: Learn more about react and web3
 
 
-### Portfolio:
+## Portfolio:
 <a href='https://t-hocine.netlify.app/'> https://t-hocine.netlify.app/ <a>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
