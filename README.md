@@ -4,6 +4,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about react and web3
 
+
+## Portfolio:
+<a href='https://t-hocine.netlify.app/'> https://t-hocine.netlify.app/ <a>
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -21,11 +25,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Heruko" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Netlify" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" style="padding-right:10px;" />
-.
 
-## Portfolio:
-
-<a href='https://t-hocine.netlify.app/'> https://t-hocine.netlify.app/ <a>
 
 <br />
 <br />
