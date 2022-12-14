@@ -6,7 +6,7 @@
 
 
 ## Portfolio:
-<a href='https://hocine-teg.netlify.app/'> https://hocine-teg.netlify.app/ <a>
+<a href='https://hocine-teg.netlify.app/'> https://t-hocine.netlify.app <a>
 
 ## Languages and Tools:
 
