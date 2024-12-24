@@ -1,10 +1,5 @@
 # Hi there, I'm Hocine 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about react and web3
-
-
 ## Portfolio:
 <a href='https://hocine-teg.netlify.app/'> https://t-hocine.netlify.app <a>
 
